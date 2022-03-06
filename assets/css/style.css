@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+header {
+    text-align: center;
+    border-bottom: solid 5px black;
+    justify-content: center;
+}
+
+.desc-style {
+    height: 100%;
+} 
+
+.hour {
+    height: 100%;
+}
+
+.test {
+    text-align: center;
+}
+
+.date {
+    margin: 25px 0;
+}
+
+h1 {
+    margin-top: 30px;
+    font-size: 70px;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.page-desc {
+    font-size: 24px;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.list-group {
+    padding: 0;
+}
+
+.list-item {
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 2px black;
+    height: 120px;
+}
+
+h4 {
+    border-right: solid 2px black;
+    font-family: 'Arvo', serif;
+    padding-right: 20px;
+    text-align: right;
+    padding-top: 20px;
+}
+
+.save {
+    border-left: solid 2px black;
+    height: 100%;
+}
+
+/* .description {
+    border-top: solid 1px red;
+    border-bottom: solid 1px red;
+} */
+
+button {
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    
+}
