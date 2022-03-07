@@ -10,20 +10,25 @@ header {
     justify-content: center;
 }
 
+.description {
+    text-align: left;
+    font-size: 22px;
+    height: 100%;
+}
+
 .desc-style {
     height: 100%;
+    padding: 0;
 } 
 
 .hour {
     height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .test {
     text-align: center;
-}
-
-.date {
-    margin: 25px 0;
 }
 
 h1 {
@@ -44,8 +49,8 @@ h1 {
 .list-item {
     justify-content: center;
     align-items: center;
-    border-bottom: solid 2px black;
     height: 120px;
+    border-bottom: solid 2px black;
 }
 
 h4 {
@@ -57,18 +62,36 @@ h4 {
 }
 
 .save {
-    border-left: solid 2px black;
     height: 100%;
+    justify-content: right;
+    border-left: solid 2px black;
+    padding: 0;
 }
-
-/* .description {
-    border-top: solid 1px red;
-    border-bottom: solid 1px red;
-} */
 
 button {
     height: 100%;
     width: 100%;
-    justify-content: center;
-    
+}
+
+.date {
+    font-size: 24px;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.form-control {
+    height: 100%;
+    text-align: left;
+    font-size: 22px;
+}
+
+.past {
+    background-color: gray;
+}
+
+.present {
+    background-color: red;
+}
+
+.future {
+    background-color: green;
 }
