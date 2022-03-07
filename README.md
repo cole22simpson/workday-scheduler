@@ -11,13 +11,8 @@ This scheduler helps you keep track of your daily tasks. There is a time block f
 
 This remains a persiting problem that I need to look more into, but figuring out how to put my data in localStorage has proven challenging. 
 
-## Screenshot of the page
-
-[Screenshot](![Desktop Screenshot 2022 02 27 - 23 34 34 97](https://user-images.githubusercontent.com/97649732/155942605-8cc56fb2-7691-4770-be31-0acc75b9020c.png)
-)
-
 ## Link to the deployed application
 
-[Final product]
+https://cole22simpson.github.io/workday-scheduler/
 
 ### Challenge done by Cole Simpson
